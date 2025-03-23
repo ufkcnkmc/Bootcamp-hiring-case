@@ -598,7 +598,6 @@
 
           owlStage.style.transition = "transform 0.3s ease";
 
-
           const translateValue = currentIndex * (config.itemWidth + 20);
           owlStage.style.transform = `translate3d(-${translateValue}px, 0px, 0px)`;
 
